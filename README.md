@@ -119,7 +119,7 @@ Each run produces a dataset of structured job records. Results can be downloaded
 
 ## How much does it cost to scrape nationalevacaturebank.nl?
 
-Nationale Vacaturebank Scraper uses pay-per-event pricing on Apify:
+Nationale Vacaturebank Scraper is **free to use**. You only pay for [Apify platform usage](https://apify.com/pricing) (compute and storage) consumed during the run. There is no per-result or per-run surcharge from the actor itself.
 
 - **$0.01** per actor start
 - **$0.002** per result
